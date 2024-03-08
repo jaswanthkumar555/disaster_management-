@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1> DISASTER MANAGEMENT</h1><meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <img src="img.jpg">
+    <p>  Specifically, disaster management is about organizing and directing resources to cope with a disaster and coordinating the roles and responsibilities of responders, private sector organizations, public sector agencies, nonprofit and faith-based organizations, volunteers, donations, etc.</p>
+    
+</body>
+</html>
